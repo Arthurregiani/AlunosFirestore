@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881332843196",
+    "project_id": "aula-dmos1-2024",
+    "storage_bucket": "aula-dmos1-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881332843196:android:a86b3c680ea6c9386296b9",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dmo.alunosfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJjcXzeh5zfNmcOBuOkREbaJDEgsdvi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
